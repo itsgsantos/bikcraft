@@ -49,3 +49,14 @@
   margin-right: 8px;
   background-color: var(--cor-p1);
 }
+
+.bicicletas-lista li span {
+  padding-left: 20px;
+}
+
+@media (max-width: 800px) {
+  .bicicletas-lista {
+    padding-bottom: 60px;
+  }
+
+}
